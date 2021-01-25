@@ -39,6 +39,14 @@
 #if name in ["Luke", "Han"]:
   #  print("Your name is either Luke.")
 
-name = input("masukan nama anda")
+#name = input("masukan nama anda")
 
-print(name)
+# if umur == "18":
+    # print("anda muda")
+# elif umur == "30":
+    # print("anda tua")
+
+#print(name)
+
+#if and else:
+#jika nama anda lebih besar dari 10, tampilkan panjang
